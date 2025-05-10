@@ -7,3 +7,6 @@
 
 ![octocat](https://octodex.github.com/images/mona-the-rivetertocat.png)
 
+```python
+x = "Hello minecraft!"
+```
